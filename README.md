@@ -16,9 +16,9 @@ I am taking retraining courses for autotesting in Netology (link). The deadline 
 
 ## Key skills
 
-•	Use of actual testing theories<br>
-•	Understanding of software development life cycle<br>
-•	Creating checklists, test-cases, test-suites<br>
-•	Working with Git and GitHub<br>
-•	Preparing testing reports, bug reports<br>
-•	Working in Postman, Jira, Confluence<br>
+* Use of actual testing theories
+* Understanding of software development life cycle
+* Creating checklists, test-cases, test-suites
+* Working with Git and GitHub
+* Preparing testing reports, bug reports
+* Working in Postman, Jira, Confluence
