@@ -24,6 +24,6 @@ I am taking retraining courses for autotesting in Netology (link). The deadline 
 
 
 ---
-<div id="header" align="center">
+<div id align="center">
   <img src="https://media.giphy.com/media/2C2qwckZzyiz8UzvzK/giphy.gif" width="100"/>
 </div>
