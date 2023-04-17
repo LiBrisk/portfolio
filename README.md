@@ -1,6 +1,6 @@
 # CV # 
 ![My Foto](FOTO/foto1.png) 
-## Putilina Ksenia Alekseevna
+## Putilina Kseniya
 
 +381 (62) 191-60-84<br>
 +7 (929) 8220615  Whats App, Telegram<br>
