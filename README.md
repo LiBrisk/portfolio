@@ -11,7 +11,12 @@ City: Novi Sad, Serbia
 ## QA Engeneer
 
 Hello! My name is Kseniya.<br> 
-I am taking retraining courses for autotesting in Netology (link). The deadline is in March 2024. I have been self-studying since June 2022. But it was necessary to somehow systematize the information and sort it out. To do this, I turned to Netology. I studied manual testing myself, plus a full course on manual testing in Netology will be completed in February 2023. I can create test cases, test suites, checklists, create bugs in Jira. I’ve practiced in Postman, I know the basics of MySQL, as well as the basics of HTML layout. Now I'm familiar with Git and GitHub. I also go through the basics of Python in parallel. Later there will be JS (basics). At the same time, I improve my level of spoken English.
+I live in Novi Sad, Serbia.<br>
+The idea of changing my profession has been on my mind for a long time, but I couldn't decide. There were always factors that stopped me. It was scary to leave the market where I already knew my way around and start in a new field. Plus, circumstances didn't allow me to switch from a high income to a low one, even for a while. Not to mention the psychological barrier of going from being a specialist with a good reputation to a student.<br>
+When my husband was transferred to another country for work, I decided to take responsibility for my life and started learning a new profession - software testing.
+In sales, I gained valuable experience working with large amounts of data, being quick to learn new programs (1C, CRM, Bitrix), working under stressful conditions and within limited time frames, as well as experience working with technical documentation of different types and searching for information online. I also learned how to effectively interact with all structures, both in my company and in partner organizations.<br>
+Currently, I am undergoing retraining courses at Netology and have successfully completed a course in manual testing. I have experience working with tools such as Postman, Jira, JMeter, Git and GitHub, as well as some knowledge in MySQL and HTML layout. Currently, I am learning to write automated tests in Java and concurrently studying the basics of Python. In the future, I plan to study JS (basics) as well. Additionally, I am constantly improving my conversational English.
+I am confident that my sales experience and willingness to learn a new profession will make me a valuable candidate for a software testing position. I am ready to put in maximum effort to achieve high results and help your company grow and develop.<br>
 
 ## Key skills
 
