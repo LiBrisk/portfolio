@@ -29,6 +29,10 @@ I am confident that my sales experience and willingness to learn a new professio
 
 
 ---
+https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/260588/7102baa2bdca9d42a2b7ac8f008e6c06.png?ts=1677751065
+
+https://u.netology.ru/backend/uploads/legacy/shared_diplomas/image/241466/0f3f0b1aa70df23eb485fd4bc7feba60.png?ts=1674055227
+
 <div id align="center">
   <img src="https://media.giphy.com/media/2C2qwckZzyiz8UzvzK/giphy.gif" width="100"/>
 </div>
