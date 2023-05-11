@@ -3,7 +3,8 @@
 ## Putilina Kseniya
 
 +381 (62) 191-60-84<br>
-+7 (929) 8220615  Whats App, Telegram<br>
++7 (929) 8220615  Whats App<br>
+https://t.me/Kseniyavolga Telegram<br>
 kseniavolga3421@gmail.com
 
 City: Novi Sad, Serbia
