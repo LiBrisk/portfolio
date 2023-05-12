@@ -36,7 +36,6 @@ I am confident that my sales experience and willingness to learn a new professio
 </div>
 
 ## Letters of recommendation
-
 ![Leter](FOTO\letters_of_recommendation_ Kronshtadt.JPG)
 
 ---
